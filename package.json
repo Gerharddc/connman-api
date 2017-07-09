@@ -1,6 +1,6 @@
 {
   "name": "connman-api",
-  "version": "0.3.4",
+  "version": "0.4.0",
   "description": "Connman (Opensource connection manager) client",
   "keywords": [
     "internet",
@@ -13,14 +13,20 @@
   ],
   "homepage": "https://github.com/Doodle3D/connman-api",
   "author": {
-    "name": "Peter Uithoven",
-    "email": "peter@peteruithoven.nl"
+    "name": "Gerhard de Clercq",
+    "email": "gerharddeclercq@outlook.com"
   },
-  "contributors": [{
-    "name": "Fred Chien(錢逢祥)",
-    "email": "fred@mandice.com",
-    "web": "http://www.mandice.com/"
-  }],
+  "contributors": [
+    {
+      "name": "Fred Chien(錢逢祥)",
+      "email": "fred@mandice.com",
+      "web": "http://www.mandice.com/"
+    },
+    {
+      "name": "Peter Uithoven",
+      "email": "peter@peteruithoven.nl"
+    }
+  ],
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -34,7 +40,7 @@
   },
   "dependencies": {
     "async": "~0.2.9",
-    "dbus": "^0.2.17",
+    "dbus": "^1.0.0",
     "debug": "^2.1.1"
   },
   "main": "./lib/connman"
