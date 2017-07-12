@@ -1,5 +1,5 @@
 {
-  "name": "connman-api",
+  "name": "connman-node-api",
   "version": "0.4.0",
   "description": "Connman (Opensource connection manager) client",
   "keywords": [
@@ -11,10 +11,10 @@
     "network",
     "api"
   ],
-  "homepage": "https://github.com/Doodle3D/connman-api",
+  "homepage": "https://github.com/Gerharddc/connman-node-api",
   "author": {
     "name": "Gerhard de Clercq",
-    "email": "gerharddeclercq@outlook.com"
+    "email": "gerharddclrcq@gmail.com"
   },
   "contributors": [
     {
@@ -30,7 +30,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Doodle3D/connman-api.git"
+    "url": "git@github.com:Gerharddc/connman-node-api.git"
   },
   "directories": {
     "tests": "lib"
