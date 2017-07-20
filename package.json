@@ -1,6 +1,6 @@
 {
   "name": "connman-node-api",
-  "version": "0.4.1",
+  "version": "0.4.2",
   "description": "Connman (Opensource connection manager) client",
   "keywords": [
     "internet",
